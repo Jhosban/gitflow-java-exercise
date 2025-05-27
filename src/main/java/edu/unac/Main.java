@@ -5,7 +5,7 @@ public class Main {
         // It prints "Hello world!" to the console.
         System.out.println("Hello world!");
 
-        // It prints "Hello main!" to the console.
-        System.out.println("Hello main!");
+        // It prints "Hello everyone!" to the console.
+        System.out.println("Hello everyone!");
     }
 }
